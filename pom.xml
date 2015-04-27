@@ -11,7 +11,7 @@
 
   <groupId>com.f2prateek.robin</groupId>
   <artifactId>robin-parent</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>Robin (Parent)</name>
@@ -44,7 +44,7 @@
     <url>http://github.com/f2prateek/robin/</url>
     <connection>scm:git:git://github.com/f2prateek/robin.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/f2prateek/robin.git</developerConnection>
-    <tag>robin-parent-1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <issueManagement>

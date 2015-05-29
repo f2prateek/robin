@@ -19,14 +19,14 @@ Download [the latest JAR][2] or grab via Maven:
 
 ```xml
 <dependency>
-  <groupId>rx.android.schedulers</groupId>
+  <groupId>com.f2prateek.robin</groupId>
   <artifactId>robin</artifactId>
   <version>1.0.0</version>
 </dependency>
 ```
 or Gradle:
 ```groovy
-compile 'rx.android.schedulers:robin:1.0.0'
+compile 'com.f2prateek.robin:robin:1.0.0'
 ```
 
 
